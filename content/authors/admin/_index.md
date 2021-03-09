@@ -14,26 +14,25 @@ role: university student
 
 # Organizations/Affiliations
 organizations:
-- name: Tokyo university of science 
-  url: "https://www.tus.ac.jp/"
+- name: University Tokyo 
+  url: "http://www.eeis.t.u-tokyo.ac.jp/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ただの大学生
+bio: 大学生院生
 
 interests:
-- cosmonautics
 - novels and comics
 - machine learning
-- programing
+- web app
 
 education:
   courses:
+  - course: University Tokyo 
+    institution: Department of Electrical and Electronic Engineering Graduate School
+    year: 2021~
   - course: Tokyo University Of Science 
     institution: Department of Applied Electronics,Ando Lab
-    year: 2017~
-  - course: Kansai univ
-    institution: Faculity of social media
-    year: 2016~2017
+    year: 2017~2021
   - course: Hokkai High School
     institution: general course
     year: 2012~2015
@@ -43,12 +42,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/
 # - icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=ko2091
@@ -73,15 +72,13 @@ user_groups:
 
  北海道札幌市出身
 
- 東京理科大学にて分子動力学シミュレーションの研究を行っています。
+ 東京大学大学院工学部電気電子工学専攻修士課程在学中
+ 
+ 太陽光発電に関する研究を行っています。
 
- 好きな小説家は森博嗣です。他にもSFとかは広く読みます。
 
- スポーツはサッカー　テニス　バレーボールをやってました。
+ 好きな小説家は森博嗣です。他にもSFとかいろいろ読みます。
 
- 最近は大学院受験勉強に励んでいます。
+ スポーツはサッカー　テニス　バレーボールをやってました。最近は筋トレにハマっています。
 
- このサイトを作ったの理由はアウトプットを公開する環境を作るためと、ブログをやってみようかなあと思ったからです。ブログの内容については主に研究、宇宙、機械学習、プログラミングの事。あとは僕の生活の事全般や思っている事についてなんかも書いていくつもりです。
-
- 割と個人情報書いてますが、一応匿名というか個人が特定されないようにしたいのでエウロパという僕の好きな衛星の名前をブログのタイトルにしました。
-
+ 
