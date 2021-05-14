@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "shibuya"
   date_start = "2019-08-01"
-  date_end = ""
+  date_end = "2021-03-31"
   description = """
    job skills:
   
