@@ -36,7 +36,7 @@ subtitle = ""
 [[feature]]
   icon = "space-shuttle"
   icon_pack = "fas"
-  name = ""
+  name = "基本情報技術者(FP)"
   description = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
